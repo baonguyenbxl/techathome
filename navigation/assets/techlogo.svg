@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="color-0-0" gradientUnits="userSpaceOnUse" x1="12" y1="3" x2="12" y2="20" gradientTransform="matrix(34.155548, 0, 0, 15.396531, 22.133437, -25.208202)" xlink:href="#color-0"/>
+    <linearGradient id="color-0">
+      <stop style="stop-color: #f12711;" offset="0"/>
+      <stop style="stop-color: #f5af19;" offset="1"/>
+    </linearGradient>
+    <linearGradient id="color-4-0" gradientUnits="userSpaceOnUse" x1="12.41" y1="2" x2="12.41" y2="22" gradientTransform="matrix(1, 0, 0, 1, 5.067694, 0)" xlink:href="#color-4"/>
+    <linearGradient id="color-4">
+      <stop style="stop-color: #bdc3c7;" offset="0"/>
+      <stop style="stop-color: #2c3e50;" offset="1"/>
+    </linearGradient>
+    <linearGradient id="color-0-2" gradientUnits="userSpaceOnUse" x1="3" y1="11" x2="3" y2="20.151" xlink:href="#gradient-1"/>
+    <linearGradient id="gradient-1">
+      <stop style="stop-color: #6d6027;" offset="0"/>
+      <stop style="stop-color: #d3cbb8;" offset="1"/>
+    </linearGradient>
+    <linearGradient id="color-0-1" gradientUnits="userSpaceOnUse" x1="19.995" y1="11" x2="19.995" y2="22" xlink:href="#gradient-1"/>
+  </defs>
+  <path d="M 317.466 282.129 L 316.281 190.936 L 567.273 190.936 L 567.865 282.722 L 671.087 282.722 L 671.087 159.551 L 773.554 159.551 L 431.999 20.982 L 90.443 159.551 L 192.909 159.551 L 192.909 282.722 L 317.466 282.129 Z" style="fill: url(#color-0-0);"/>
+  <g transform="matrix(6.511838, 0, 0, 4.051853, 334.262146, 192.970352)" style="">
+    <path d="M 22.492 6.59 L 20.082 5.5 L 22.492 4.41 L 23.582 2 L 24.672 4.41 L 27.082 5.5 L 24.672 6.59 L 23.582 9 L 22.492 6.59 Z M 26.362 12.72 L 25.582 11 L 24.802 12.72 L 23.082 13.5 L 24.802 14.28 L 25.582 16 L 26.362 14.28 L 28.082 13.5 L 26.362 12.72 Z M 21.322 14.37 L 23.262 15.84 L 20.762 20.17 L 18.522 19.23 C 18.322 19.36 18.102 19.49 17.882 19.6 L 17.582 22 L 12.582 22 L 12.282 19.59 C 12.062 19.48 11.852 19.36 11.642 19.22 L 9.402 20.16 L 6.902 15.83 L 8.842 14.36 C 8.832 14.25 8.832 14.12 8.832 14 C 8.832 13.88 8.832 13.75 8.842 13.63 L 6.902 12.16 L 9.402 7.83 L 11.642 8.77 C 11.842 8.64 12.062 8.51 12.282 8.4 L 12.582 6 L 17.582 6 L 17.882 8.41 C 18.102 8.52 18.312 8.64 18.522 8.78 L 20.762 7.84 L 23.262 12.17 L 21.322 13.64 C 21.332 13.76 21.332 13.88 21.332 14.01 C 21.332 14.14 21.332 14.25 21.322 14.37 Z M 18.082 14 C 18.082 12.34 16.742 11 15.082 11 C 13.422 11 12.082 12.34 12.082 14 C 12.082 15.66 13.422 17 15.082 17 C 16.742 17 18.082 15.66 18.082 14 Z" style="paint-order: stroke markers; fill: url(#color-4-0);"/>
+  </g>
+  <g transform="matrix(12.707361, 0, 0, 7.895622, 243.593964, 201.425919)" style="">
+    <g>
+      <rect height="9.151" width="4" x="1" y="11" style="fill: url(#color-0-2);"/>
+      <path d="M 29.509 17 L 17.389 17 L 13.77 16.27 L 14.341 15.33 L 17.389 16 L 22.272 16 C 23.397 16 24.315 15.47 24.315 14.82 C 24.315 14.33 23.778 13.89 22.982 13.71 L 10.411 11 L 7 11 L 7 20.02 L 19.12 22 L 32.99 19 C 32.972 17.9 31.431 17 29.509 17 Z" style="fill: url(#color-0-1);"/>
+    </g>
+  </g>
+  <text style="fill: rgb(194, 64, 64); font-family: Sawasdee; font-size: 20.7px; white-space: pre;" transform="matrix(5.007291, 0, 0, 1.622577, -304.816254, -211.321213)" x="61.333" y="336.444">TECH</text>
+  <text style="fill: rgb(223, 115, 93); font-family: Sawasdee; font-size: 20.7px; font-style: italic; white-space: pre;" transform="matrix(2.236883, 0, 0, 1.092829, -721.606018, -12.602593)" x="583.407" y="305.63">@ home</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Karumbi; font-size: 20.7px; font-style: italic; white-space: pre;" x="565.111" y="386" transform="matrix(1.859422, 0, 0, 1.553191, -485.159607, -216.352905)">bring all together</text>
+</svg>
